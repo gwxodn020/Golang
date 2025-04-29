@@ -19,3 +19,4 @@ go run main.go //파일 실행
 
 ## 목차
 - [Hello](Hello/Readme.md)
+- [변수](Var/Readme.md)
