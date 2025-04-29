@@ -29,31 +29,11 @@ go run main.go //파일 실행
 |난이도|문제 이름|문제|상태|
 |:---:|:---|:---:|:---:|
 |Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120802)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120803)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120805)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120807)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120808)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120809)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120811)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120812)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120813)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120814)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120815)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120816)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120817)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120818)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120819)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120820)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120821)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120822)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120823)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120824)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120825)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120826)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120827)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120828)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120829)| |
-|Lv0|**사칙 연산**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120830)| |
+|Lv0|**두 수의 차 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120803)| |
+|Lv0|**두수의 곱 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120804)| |
+|Lv0|**몫 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120805)| |
+|Lv0|**두 수의 나눗셈**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806)| |
+|Lv0|**숫자 비교**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120807)| |
+|Lv0|**분수의 덧셈**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120808)| |
+|Lv0|**배열 2배 만들기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120809)| |
+|Lv0|**나머지 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120810)| |
