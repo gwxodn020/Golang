@@ -35,3 +35,4 @@ go run main.go //파일 실행
 |Lv0|**두 수의 나눗셈**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120806)|⭕️|
 |Lv0|**숫자 비교**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|⭕️|
 |Lv0|**나머지 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|⭕️|
+|Lv0|**각도기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|⭕️|
