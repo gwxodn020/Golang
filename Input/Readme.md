@@ -2,7 +2,6 @@
 
 |티어|문제 이름|문제|상태|
 |:---:|:---|:---:|:---:|
-| I | II | III | IV | V |
 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"/>|**Hello World**|[문제](https://www.acmicpc.net/problem/2557)|⭕️|  
 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"/>|**A+B**|[문제](https://www.acmicpc.net/problem/1000)|⭕️|  
 |<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"/>|**A-B**|[문제](https://www.acmicpc.net/problem/1001)|⭕️|  
