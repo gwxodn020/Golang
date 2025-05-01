@@ -36,3 +36,12 @@ go run main.go //파일 실행
 |Lv0|**숫자 비교**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120807)|⭕️|
 |Lv0|**나머지 구하기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120810)|⭕️|
 |Lv0|**각도기**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120829)|⭕️|
+|Lv0|**양꼬치**|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|⭕️|
+|Lv0|**짝수의 합**|[문제](hhttps://school.programmers.co.kr/learn/courses/30/lessons/120831)|⭕️|
+
+## [백준]단계별로 풀어보기
+
+- [입출력과 사칙연사](Input/Readme.md)
+- [조건문](IF/Readme.md)
+- [반복문](FOR/Readme.md)
+- [1차원 배열](ARR1/Readme.md)
