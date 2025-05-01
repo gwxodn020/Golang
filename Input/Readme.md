@@ -14,11 +14,4 @@
 |BronzeV|**나머지**|[문제](https://www.acmicpc.net/problem/10430)|⭕️|
 |BronzeIII|**곱셈**|[문제](https://www.acmicpc.net/problem/2588)|⭕️|
 |BronzeV|**고양이**|[문제](https://www.acmicpc.net/problem/10171)|⭕️|
-|![Bronze V]|<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"/>|**강아지**|[문제](https://www.acmicpc.net/problem/10172)|⭕️|
-
-1:나를 설명하는 키워드 - 3가지 단어 - 집중,호기심,끈기
-2:나의 핵심 가치 - 2가지 - 도전,끈기
-3:나의 강점과 능력 
-4:나의 진로 관심분야 자동화
-5:나를 상징하는 이미지 : 없음
-6:나의 한 문장 슬로건 : 없음
+|![Bronze V]<img src="https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="20"/>|**강아지**|[문제](https://www.acmicpc.net/problem/10172)|⭕️|
