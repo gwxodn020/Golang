@@ -11,6 +11,6 @@
 |Bronze5|**??!**|[문제](https://www.acmicpc.net/problem/10926)|⭕️|
 |Bronze5|**1998년생인 내가 태국에서는 2541년생?!**|[문제](https://www.acmicpc.net/problem/18108)|⭕️|
 |Bronze5|**나머지**|[문제](https://www.acmicpc.net/problem/10430)|⭕️|
-|Bronze5|**곱셈**|[문제](https://www.acmicpc.net/problem/2588)|⭕️|
+|Bronze3|**곱셈**|[문제](https://www.acmicpc.net/problem/2588)|⭕️|
 |Bronze5|**고양이**|[문제](https://www.acmicpc.net/problem/10171)|⭕️|
 |Bronze5|**강아지**|[문제](https://www.acmicpc.net/problem/10172)|⭕️|
