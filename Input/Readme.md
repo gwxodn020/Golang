@@ -14,4 +14,7 @@
 |BronzeV|**나머지**|[문제](https://www.acmicpc.net/problem/10430)|⭕️|
 |BronzeIII|**곱셈**|[문제](https://www.acmicpc.net/problem/2588)|⭕️|
 |BronzeV|**고양이**|[문제](https://www.acmicpc.net/problem/10171)|⭕️|
-|BronzeV|**강아지**|[문제](https://www.acmicpc.net/problem/10172)|⭕️|
+![Bronze V](https://d2gd6pc034wcta.cloudfront.net/tier/1.svg)  
+**강아지**  
+[문제 링크](https://www.acmicpc.net/problem/10172)  
+결과: ⭕️
