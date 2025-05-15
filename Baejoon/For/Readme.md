@@ -17,13 +17,14 @@
 
 
 ## 15552번 빠른 A+B
-````
+```
 import (
     "fmt"
     "bufio"
     "os"
 )
 ```
+
 • bufio.NewReader(os.Stdin)은 빠른 입력 받으려고 씀 NewWriter도 마찬가지로 빠른 출력
 • defer out.Flush()는 출력 다 하고 나갈 때 한 번에 비워주는 거
 • 시간초과를 신경쓰지 않아도 되면 그냥 fmt.Scanln, fmt.Println으로 쓰면 됨
