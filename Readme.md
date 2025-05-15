@@ -29,3 +29,5 @@ go run main.go //파일 실행
 - [프로그래머스](Pro/Readme.md)
 - [백준](Baejoon/Readme.md)
 
+
+git push -u origin main 
